@@ -1,0 +1,1 @@
+web: python manage.py migrate && daphne -b django-chat-app.up.railway.app -p 8000 config.asgi:application
