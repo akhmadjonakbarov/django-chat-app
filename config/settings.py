@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-c1s&ddpc=++lav$9(yr$4wd&7ehf0^2yjp2h^skps(nsgqhg&2
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['188.166.164.241']
 
 
 # Application definition
